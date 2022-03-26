@@ -1,0 +1,8 @@
+Name=Devendra
+DB_HOST=db
+DB_PORT=5432
+DB_USER=postgres
+DB_PASSWORD=vap0987
+DB_DBNAME=secretnote-prod
+REDIS_HOST=redis
+REDIS_PORT=6379
